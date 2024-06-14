@@ -27,7 +27,7 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369354-26,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Kentang rebus,70,12.3,80,1.8,17.5,0.1
 1716369354-27,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Kentang panggang,95,20,93,2.5,21.1,0.1
 1716369354-28,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Labu kaviar,75,3.6,83,1.3,4.8,8.1
-1716369354-29,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Labu,15,0.7,24,0.6,4.6,0.3
+1716369354-29,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Labu siam,15,0.7,24,0.6,4.6,0.3
 1716369354-30,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Kapulaga,20,0.8,30,2.1,4.2,0.5
 1716369354-31,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Kubis putih,15,0.9,24,1.2,5.8,0.1
 1716369354-32,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-vegetables/,Sayuran,Kubis Brussels,15,0.3,46,3.6,2.3,2.4
@@ -112,7 +112,6 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369358-111,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-sweets/,Makanan manis,Cokelat (+ 70% kakao),25,9,549,9.1,36,39
 1716369358-112,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-sweets/,Makanan manis,Cokelat hitam,23,13.8,546,4.9,60,30.2
 1716369358-113,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-sweets/,Makanan manis,Bubuk cokelat dengan gula,60,19.1,374,24.2,31.9,17.5
-1716369358-114,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-sweets/,Makanan manis,Sorbet,50,27.6,368,5.7,55.2,13.9
 1716369362-115,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Basil,5,0.1,22,3.2,2.7,0.6
 1716369362-116,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Cuka balsamik,5,2.8,237,1.5,55,0
 1716369362-117,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Vanilla,5,3.3,260,0,65,0
@@ -132,14 +131,12 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369362-131,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Biji poppy,35,9.8,525,18,28,42
 1716369362-132,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,"Singkong (pahit, manis)",55,20.9,159,1.4,38,0.3
 1716369362-133,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Oregano,5,3.2,333,11.3,64.7,10
-1716369362-134,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Kayu manis,5,4,247,4,81,1.2
 1716369362-135,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Jintan,5,0.6,333,19.8,11.9,14.6
 1716369362-136,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Cuka,15,0,18,0,0,0
 1716369362-137,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Lobak,10,1.1,56,3.2,10.5,0.4
 1716369362-138,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-spices/,Rempah-rempah,Bawang putih,30,9,143,6.5,29.9,0.5
 1716369366-139,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-soups/,Sup,Sup sayuran,40,2.5,43,1.7,6.2,1.8
 1716369366-140,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-soups/,Sup,Sup lentil ,44,6.6,108,7.6,15,2
-1716369366-141,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-soups/,Sup,Sup sayuran,60,2.2,43,1.7,6.2,1.8
 1716369366-142,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-soups/,Sup,Sup dengan ayam dan jamur,46,0.7,27,3.7,1.5,0.7
 1716369366-143,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-soups/,Sup,Sup tomat,38,2.7,30,0.8,7,0.3
 1716369366-144,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-soups/,Sup,Lentil soup,30,2.4,56,3.7,8,1.1
@@ -169,7 +166,7 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369376-168,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Pasta almond putih / pasta (tanpa pemanis),35,16.7,458,9,47.8,27.7
 1716369376-169,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Kenari,15,1.1,654,15.2,7,65.2
 1716369376-170,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Biji pohon ek,25,10.3,387,6,41,24
-1716369376-171,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Biji kenari,60,26.5,192,1.6,44.2,1.2
+1716369376-171,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Kastanye (Kacang lakci),60,26.5,192,1.6,44.2,1.2
 1716369376-172,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Biji pohon pinus,15,2.9,670,12,19,61
 1716369376-173,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Kacang mete,25,3.1,643,25.5,12.6,53.6
 1716369376-174,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Kacang mete (dikupas),22,6.6,570,17,30,42
@@ -179,7 +176,6 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369376-178,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Biji kenari,15,2.1,654,15,14,65
 1716369376-179,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Kacang hazelnut,15,2.5,628,15,17,61
 1716369376-180,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Kacang pinus,15,1.9,670,12,19,61
-1716369376-181,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Kacang mete,15,4.5,643,25.5,12.6,53.6
 1716369376-182,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Raisin Nut Mix,21,9.8,483,11.2,46.6,27.9
 1716369376-183,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Tamarind ,65,40.8,239,2.8,62.7,0.6
 1716369376-184,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-nuts/,Kacang-kacangan,Pistachio,15,4.2,562,20,28,45
@@ -217,7 +213,6 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369384-216,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-meats/,Daging,Bebek panggang,0,0,407,23.2,0,19.5
 1716369384-217,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-meats/,Daging,Bebek,0,0,346,16.5,0,61.2
 1716369384-218,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-meats/,Daging,"Foie gras, pasta hati angsa (kalengan)",0,0,412,15.2,0,39
-1716369384-219,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-meats/,Daging,Ayam,0,0,156,18.7,0.4,7.8
 1716369388-220,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang putih,35,21.4,334,22,61,1
 1716369388-221,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang putih (rebus),33,8.3,140,9.3,25,0.5
 1716369388-222,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kedelai,15,4.5,446,36,30,20
@@ -248,7 +243,6 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369388-247,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Akar Bit,15,0.6,19,1.8,3.7,0.2
 1716369388-248,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,"Seledri (rebus, tanpa garam)",85,4,27,1,4.7,0.2
 1716369388-249,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Seledri (segar),15,0.3,12,0.9,2.1,0.1
-1716369388-250,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kedelai,15,4.5,446,36,30,20
 1716369388-251,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Asparagus,15,0.6,20,2.2,3.9,0.1
 1716369388-252,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang panjang (Segar),30,1.1,24,2,3.6,0.2
 1716369388-253,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Tempe,15,1.4,193,19,9,11
@@ -259,7 +253,6 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369388-258,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Falafel (kacang arab),65,28.1,264,13.9,43.3,4.8
 1716369388-259,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang (dimasak),80,17.2,123,7.8,21.5,0.5
 1716369388-260,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang Azuki,35,22,329,19.9,62.9,0.5
-1716369388-261,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang putih,35,22.4,334,22,61,1
 1716369388-262,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang hijau,30,2.1,31,1.8,7,0.1
 1716369388-263,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Kacang merah,35,18.4,310,21,52.7,1.6
 1716369388-264,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-greens/,Sayuran,Adas,15,1.1,31,1.2,7,0.2
@@ -291,7 +284,7 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369393-290,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Bubur nasi dengan susu (dengan gula),75,13.6,146,3.4,18.1,6
 1716369393-291,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Quinoa (belum siap),40,22.8,368,14.1,57.1,6
 1716369393-292,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Quinoa (dimasak),35,7.3,120,4.4,21,1.9
-1716369393-293,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Tepung jagung,85,72.3,340,0,85.1,0
+1716369393-293,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Tepung maizena,85,72.3,340,0,85.1,0
 1716369393-294,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Sagu mutiara barley (dikukus),60,40.1,315,9.3,66.9,1.1
 1716369393-295,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Beras mutiara,25,15.8,324,10,63.3,1.3
 1716369393-296,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-grains/,Biji-bijian,Jagung (kaleng),65,26.6,96,3.4,18.6,1.5
@@ -482,14 +475,12 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716369405-481,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Nasi susu,85,5.5,30,0.6,6.5,0.1
 1716369405-482,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Susu kedelai,30,1.8,54,3.3,6,1.8
 1716369405-483,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Susu cokelat,34,3.7,88,3.3,10.9,3.6
-1716369405-484,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,susu skim,31,1.5,31,3,0.2,4.7
 1716369405-485,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Susu,34,1.6,63,3.1,4.6,3.6
 1716369405-486,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Es krim,62,14.9,207,3.5,24,11
 1716369405-487,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Es krim (dengan fruktosa),35,9.4,391,10.7,27,26.5
 1716369405-488,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Es krim susu kedelai,35,6,180,10.9,17,7.3
 1716369405-489,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,"Es krim (skim, vanila)",46,13.8,138,4.5,30.1,0
 1716369405-490,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,keju skim,30,0.4,71,16.5,1.3,0
-1716369405-491,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,yogurt,32,1.3,82,9.1,4.7,3.4
 1716369405-492,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Krim,0,0,196,2.7,3.7,19
 1716369405-493,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Krim (18%),33,1.3,189,2.9,3.8,18
 1716369405-494,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-dairy-foods/,Dairy,Krim (30%),0,0,296,2.8,3.7,30
@@ -577,7 +568,7 @@ web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_ind
 1716464508-576,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti soba,50,22.9,228,7.1,45.8,2.5
 1716464508-577,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti ragi coklat,65,26,250,13,40,3
 1716464508-578,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti tepung putih,90,43.9,242,8.1,48.8,1
-1716464508-579,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti gandum,65,31.2,250,7,48,1
+1716464508-579,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti gandum biji utuh,65,31.2,250,7,48,1
 1716464508-580,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti yang sudah berkecambah,35,12.7,204,6.8,36.4,3.1
 1716464508-582,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti susu,60,29.9,243,7.1,49.8,2.1
 1716464508-583,https://glycemic-index.net/,https://glycemic-index.net/glycemic-index-of-baked-products/,Kue dan roti,Roti Pumpernickel,45,21.6,250,9,48,3.1
