@@ -28,8 +28,19 @@ We evaluated several machine learning models to predict glycemic index and glyce
 This architecture is chosen based on its performance in minimizing Mean Absolute Error (MAE) during model selection, demonstrating its effectiveness in predicting glycemic index from the provided dataset.
 
 ![choose best model](https://github.com/Glucofy-Team/Glucofy-Machine-Learning/assets/51023310/b5a402b1-22ac-4bf3-8ecb-4a5b7b224fe3)
+*example of best model for glycemic index predcition*
+
+![image](https://github.com/Glucofy-Team/Glucofy-Machine-Learning/assets/51023310/ee64296c-0021-4cdd-bb15-33fee7ea9c55)
+*example of best model for glycemic load predcition*
+
 
 Upon evaluation, the model achieved promising results in predicting glycemic index, providing valuable insights into the nutritional characteristics of the foods analyzed.
+![image](https://github.com/Glucofy-Team/Glucofy-Machine-Learning/assets/51023310/733afc78-4afc-4bba-b3b9-b8ae756ead31)
+*example of glycemic index prediction*
+
+![image](https://github.com/Glucofy-Team/Glucofy-Machine-Learning/assets/51023310/a29272a7-7436-4a15-8423-35244aa4c2b0)
+*example of glycemic load prediction*
+
 
 ## How to use our projects
 
