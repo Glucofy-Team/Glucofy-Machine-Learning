@@ -1,4 +1,4 @@
-web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_index,glycemic_load,calories ,proteins (g),carbohydrates (g),fats (g)
+web-scraper-order,web-scraper-start-url,category-href,category,name,glycemic_index,glycemic_load,calories,proteins (g),carbohydrates (g),fats (g)
 1716369350-1,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-other-foods/,Lainnya,Ragi,35,6.3,105,8,18,1.9
 1716369350-2,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-other-foods/,Lainnya,Ragi bir,35,0,75,12.7,0,2.7
 1716369350-3,https://glycemic-index.net/glycemic-index-of-baked-products/,https://glycemic-index.net/glycemic-index-of-other-foods/,Lainnya,Maltodekstrin,95,94,380,0,99,0
