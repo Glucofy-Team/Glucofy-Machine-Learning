@@ -27,9 +27,9 @@ We evaluated several machine learning models to predict glycemic index and glyce
 
 This architecture is chosen based on its performance in minimizing Mean Absolute Error (MAE) during model selection, demonstrating its effectiveness in predicting glycemic index from the provided dataset.
 
-Upon evaluation, the model achieved promising results in predicting glycemic index, providing valuable insights into the nutritional characteristics of the foods analyzed.
+![choose best model](https://github.com/Glucofy-Team/Glucofy-Machine-Learning/assets/51023310/b5a402b1-22ac-4bf3-8ecb-4a5b7b224fe3)
 
-For further details on the implementation and training process, refer to the sections above.
+Upon evaluation, the model achieved promising results in predicting glycemic index, providing valuable insights into the nutritional characteristics of the foods analyzed.
 
 ## How to use our projects
 
